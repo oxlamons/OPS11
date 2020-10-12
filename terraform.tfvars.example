@@ -1,9 +1,9 @@
 #
 # Secrets/tokens for API access
 #
-hcloud_token   = "u6VtWcRBzEv1gJHIOQ7gZ9OI1vWDtQlvGj8uLV46l76FeA92YQ317VJEC4ou8JUV"
-aws_access_key = "AKIAZMJMH6DA3THRGMQC"
-aws_secret_key = "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"
+hcloud_token   = ""
+aws_access_key = "A"
+aws_secret_key = "u"
 
 #
 # Tunables for servers, naming convention: username-prefix.

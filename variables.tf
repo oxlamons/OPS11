@@ -3,15 +3,15 @@
 #
 variable "hcloud_token" {
   type    = string
-  default = "u6VtWcRBzEv1gJHIOQ7gZ9OI1vWDtQlvGj8uLV46l76FeA92YQ317VJEC4ou8JUV"
+  default = "V"
 }
-variable "aws_access_key" {
+variable "" {
   type    = string
-  default = "AKIAZMJMH6DA3THRGMQC"
+  default = "C"
 }
 variable "aws_secret_key" {
   type    = string
-  default = "uSwMqSZtjhJYY0Ypvr3nhxmNn9lSGa+mRiq5+nW1"
+  default = "1"
 }
 #
 # Tunables for servers, naming convention: username-prefix
